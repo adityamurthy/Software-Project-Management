@@ -1,0 +1,9 @@
+﻿Fields,Requirement,Analysis,Design,Coding,Unit Testing,Integration Testing,System Testing,Field,Index
+Requirement,81,,,,,,,,1
+Analysis,21,29,,,,,,,2
+Design,17,17,102,,,,,,3
+Coding,36,19,55,402,,,,,4
+Unit Testing,12,35,8,156,51,,,,5
+Integration Testing,7,15,7,27,-,3,,,6
+System Testing,14,39,5,23,-,-,3,,7
+Field,3,2,2,7,-,-,-,7,8

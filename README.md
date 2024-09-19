@@ -6,4 +6,4 @@
 - All the project files also contains the requirements file so please check the pj_req file to better understand the problem statement
 - Directly Copying the codes and file may cause Plaigirism Problems-- Risk at your ends.
 - If you have any doubts on these projects and If you need any help in understanding the code or want to collabrate with me
-- Ping me in Discord @SurajNammi; Twitter (or) X : @nammi_suraj
+  
